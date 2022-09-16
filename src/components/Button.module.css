@@ -1,0 +1,17 @@
+button {
+  background-color: purple;
+  color: white;
+  border: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 20px 30px;
+  overflow: hidden;
+  margin: 10px 0;
+  position: relative;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
